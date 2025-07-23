@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.13.0
+twilio==9.0.1
+requests
+flask
